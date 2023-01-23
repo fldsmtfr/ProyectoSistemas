@@ -7,7 +7,7 @@ public class Salidanohay extends JFrame{
  public Salidanohay(){
     setLayout(null);
 
-    l1=new JLabel("No queda mas salsa");
+    l1=new JLabel("No queda mas salsa unu ");
     l1.setBounds(20,20,250,50);
     add(l1);
   }
