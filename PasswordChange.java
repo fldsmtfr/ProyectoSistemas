@@ -71,7 +71,7 @@ public class PasswordChange extends JFrame implements ActionListener{
           newAdmin.setLocationRelativeTo(null);
 
 	}else{
-	  JOptionPane.showMessageDialog(null,"Itroduzca cotasena"); //si la conitraseña es vacia
+	  JOptionPane.showMessageDialog(null,"Itroduzca cotasena:"); //si la conitraseña es vacia
 	}							    //pedimos una nueva
     }
   }
