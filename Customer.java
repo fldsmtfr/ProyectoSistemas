@@ -1,4 +1,4 @@
-import java.awt.event.*;
+ import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.event.*;
 
@@ -10,7 +10,7 @@ public class Customer extends JFrame implements ActionListener{
   
   public Customer(){ 
     setLayout(null);
-    l1=new JLabel("Escoga salsa"); //Etiqueta 
+    l1=new JLabel("Escoga una salsa"); //Etiqueta 
     l1.setBounds(10,20,100,30);
     add(l1);
 
