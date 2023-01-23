@@ -36,7 +36,7 @@ public class Password extends JFrame implements ActionListener{
 		
     //Componentes de la pestaña, boton y etiqueta
 
-    label1=new JLabel("Introduzca contraseña");
+    label1=new JLabel("Introduzca contrasena");
     label1.setBounds(50,50,100,30);
     add(label1);
  
